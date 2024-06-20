@@ -16,7 +16,7 @@ public class Main {
 
         String myntraLink = "https://www.myntra.com/" + convertUrlForMyntra(userQuery);
         String amazonLink = "https://www.amazon.in/s?k=" + convertUrlForAmazon(userQuery);
-//        String flipcartLink = "https://www.flipkart.com/search?q=" + convertUrlForMyntra(userQuery);
+        String flipcartLink = "https://www.flipkart.com/search?q=" + convertUrlForMyntra(userQuery);
 //        String purplleLink = "https://www.purplle.com/search?q=" + convertUrlForMyntra(userQuery);
 //        String meeshoLink = "https://www.meesho.com/search?q=" + convertUrlForMyntra(userQuery);
 
